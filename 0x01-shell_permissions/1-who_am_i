@@ -1,0 +1,3 @@
+#!/bin/sh
+username=$(whoami)
+echo "The effective username of the current user is: $username"
