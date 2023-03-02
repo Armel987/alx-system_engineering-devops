@@ -1,1 +1,1 @@
-yes
+erega ni bizoroha rwose
